@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   <h1>Hi, I'm [Name]! 👋</h1>
   <h3>Recent Computer Science Graduate | AI & ML Enthusiast</h3>
@@ -8,6 +6,7 @@
 </div>
 
 <!--
+## Hi there 👋
 **ZainabHM278/ZainabHM278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
