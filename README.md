@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### 🎓 Recent Computer Science Graduate | AI & ML Enthusiast
+
+I am a passionate developer focused on exploring the vast field of **Artificial Intelligence** and **Machine Learning**. I thrive on tackling complex challenges and staying at the forefront of Computer Science innovations.
+
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, C++, Java, SQL
+- **AI/ML:** NumPy, Pandas, TensorFlow/PyTorch, Scikit-Learn
+
 <!--
 **ZainabHM278/ZainabHM278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
