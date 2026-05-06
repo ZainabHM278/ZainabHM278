@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm [Name]! 👋</h1>
+  <h1>Hi, I'm Zainab! 👋</h1>
   <h3>Recent Computer Science Graduate | AI & ML Enthusiast</h3>
   <p>I thrive on tackling complex challenges and staying at the forefront of Computer Science innovations.</p>
   <p>🌱 <i>Great things in progress...</i> 🌱</p>
