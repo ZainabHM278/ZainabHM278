@@ -1,14 +1,9 @@
-## Hi there 👋
-
-### 🎓 Recent Computer Science Graduate | AI & ML Enthusiast
-
-I am a passionate developer focused on exploring the vast field of **Artificial Intelligence** and **Machine Learning**. I thrive on tackling complex challenges and staying at the forefront of Computer Science innovations.
-
-🌱 Great things in progress ... 🌱
-
-### 🛠️ Tech Stack & Tools
-- **Languages:** Python, C++, Java, SQL
-- **AI/ML:** NumPy, Pandas, TensorFlow/PyTorch, Scikit-Learn
+<div align="center">
+  <h1>Hi, I'm [Name]! 👋</h1>
+  <h3>Recent Computer Science Graduate | AI & ML Enthusiast</h3>
+  <p>I thrive on tackling complex challenges and staying at the forefront of Computer Science innovations.</p>
+  <p>🌱 <i>Great things in progress...</i> 🌱</p>
+</div>
 
 <!--
 ## Hi there 👋
