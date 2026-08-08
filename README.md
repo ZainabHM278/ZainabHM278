@@ -5,7 +5,18 @@
   <p>🌱 <i>Great things in progress...</i> 🌱</p>
 </div>
 
+
 <!--
+
+Codewars' own official badge (most reliable, no third-party dependency)::
+[![Codewars](https://www.codewars.com/users/ZainabHM278/badges/large)](https://www.codewars.com/users/ZainabHM278)
+
+themed stats card:
+[![Codewars Stats](https://codewars-stats-ignacio-cuadra.vercel.app/?username=ZainabHM278&theme=dark)](https://www.codewars.com/users/ZainabHM278)
+
+Small Badge Variant:
+[![Codewars Badge](https://www.codewars.com/users/ZainabHM278/badges/micro)](https://www.codewars.com/users/ZainabHM278)
+
 ## Hi there 👋
 **ZainabHM278/ZainabHM278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
